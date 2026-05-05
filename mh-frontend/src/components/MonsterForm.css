@@ -1,0 +1,10 @@
+.element-select {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.element-preview {
+  width: 28px;
+  height: 28px;
+}
